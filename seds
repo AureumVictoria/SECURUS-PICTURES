@@ -1,1 +1,29 @@
-{"name":"SEDS MITGLIEDSCHAFT","createdBy":"@AUREUM VICTORIA","yearCreated":"2022","description":"SEDS NFT MITGLIEDSCHAFT","image":"https://github.com/AureumVictoria/SECURUS-PICTURES/blob/main/Diapositive1.PNG?raw=true","media":{"uri":"https://github.com/AureumVictoria/SECURUS-PICTURES/blob/main/Diapositive1.PNG?raw=true","https://github.com/AureumVictoria/SECURUS-PICTURES/blob/main/qr-code.png?raw=true"},"tags":["MITGLIEDSCHAFT","nft","SEDS"]}
+{
+  data: [
+    {
+      description: 'This is an example #1',
+      name: 'NFT Example #1',
+      attributes: [
+        {
+          trait_type: 'color',
+          value: 'red'
+        }
+      ],
+      image: 'https://github.com/AureumVictoria/SECURUS-PICTURES/blob/main/Diapositive1.PNG?raw=true',
+      animation_url: '',
+      background_color: '',
+      youtube_url: '',
+      external_url: ''
+    },
+    {
+      description: 'This is an example #2',
+      name: 'NFT Example #2',
+      attributes: [],
+      image: 'https://github.com/AureumVictoria/SECURUS-PICTURES/blob/main/qr-code.png?raw=true',
+      animation_url: '',
+      background_color: '',
+      youtube_url: '',
+      external_url: ''
+    }
+  ]
+}
